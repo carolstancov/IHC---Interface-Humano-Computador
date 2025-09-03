@@ -553,6 +553,16 @@ Por fim, meu objetivo era consolidar meus aprendizados para aplicar estratégias
 **Dica: Cada membro de equipe deve pensar em cenários existentes na atualidade (que causam problemas para os usuários) e que a interface prevista ajudará a resolver o problema. Cenário de Análise/Problema é uma história triste. Não descreve a solução. Descreve somente o problema.**
 
 1) **Cenário de Análise/Problema**
+   
+	Miguel chega em casa após um longo dia de trabalho como analista de tecnologia. Já são quase 21h quando, como de costume, senta-se diante do computador para analisar o mercado e buscar oportunidades de investimento. Ele abre várias abas: uma com um painel de cotações em tempo real, outra com gráficos técnicos, uma terceira com um fórum de traders e, por fim, um arquivo Excel onde mantém suas estratégias manuais de long-short.
+	
+	Na tentativa de identificar pares de ações com potencial de reversão de correlação, Miguel recorre a dados históricos obtidos por meio de uma API gratuita. No entanto, perde tempo organizando e limpando a base, pois o formato dos dados é inconsistente. Mesmo após uma hora de ajustes, ele ainda se sente inseguro quanto à robustez da análise, consciente de que não utiliza métricas estatísticas avançadas suficientes para validar os pares.
+	
+	Ele identifica uma possível oportunidade entre duas ações do setor financeiro, mas não sabe se a escolha é estatisticamente sólida ou apenas fruto de um padrão ilusório. A ausência de justificativas claras, baseadas em dados confiáveis, o frustra, levando-o a questionar se está realmente evoluindo como investidor ou apenas tentando reproduzir modelos vistos em cursos, sem as ferramentas adequadas.
+	
+	Apesar do desejo de independência em suas decisões, Miguel sente-se dependente de plataformas pagas, análises de terceiros e processos manuais demorados. Ele gostaria de encontrar uma forma mais prática e confiável de testar e validar suas ideias, sem perder tempo com linguagens de programação complexas ou fórmulas estatísticas que ainda não domina por completo.
+	
+	Por fim, ele fecha o notebook com a sensação de que, apesar de todo o esforço e conhecimento autodidata, continua vulnerável às limitações das ferramentas disponíveis e ao ruído do mercado. A frustração aumenta ao perceber que, por falta de uma análise clara e objetiva, oportunidades que poderiam ser rentáveis acabaram passando despercebidas.
 
 2) ## **Questões de Refinamento**
 
