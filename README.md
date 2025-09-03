@@ -534,17 +534,25 @@ Por isso, o sistema precisa equilibrar os dois mundos: ser confiável e bem estr
 
 **4\) Jornada do Usuário \[1 por equipe\]**
 
-Quando eu conheci a ferramenta, meu principal objetivo era encontrar uma forma de explorar estratégias de investimento de maneira prática e segura, sem precisar arriscar dinheiro real. Comecei pesquisando sobre a plataforma e acessando a interface inicial, clicando nos menus, gráficos e opções disponíveis. Pensei comigo mesmo: “Será que essa ferramenta vai realmente me ajudar a entender o mercado e identificar oportunidades?” Senti uma mistura de curiosidade e expectativa, junto com uma leve apreensão sobre gastar tempo com algo que talvez não fosse útil.
+Camila Machado – “Entre o clássico e o moderno”
 
-Ao explorar os recursos, meu objetivo era me familiarizar com o ambiente e descobrir como ele poderia apoiar minhas análises. Naveguei pelos gráficos, heatmaps de correlação e sugestões de pares de ações, testando funções básicas e simulando operações long-short simples. Enquanto fazia isso, pensava: “Como esses dados se conectam com o que eu já sei? Será que consigo comparar cenários de forma eficiente?” Senti interesse e leve frustração quando alguns recursos pareceram complexos, mas também motivação ao perceber que podia visualizar informações de forma clara.
+Camila inicia seu dia com o objetivo claro de aprofundar sua pesquisa de mestrado, que busca entender a eficiência dos métodos tradicionais de análise financeira em comparação com modelos modernos baseados em inteligência artificial. Ela sabe que precisa validar suas hipóteses usando dados reais e gerar relatórios claros para seus orientadores, por isso está em busca de uma ferramenta que facilite esse processo sem exigir que ela codifique tudo manualmente.
 
-Quando comecei a simular estratégias mais detalhadas, meu objetivo passou a ser testar hipóteses de investimento e entender quais pares de ações apresentavam melhor desempenho. Ajustei parâmetros, escolhi ativos sugeridos e observei os resultados das simulações. Pensei: “Isso me ajuda a enxergar padrões que eu sozinho talvez não percebesse. Consigo analisar rapidamente quais estratégias têm mais potencial.” Senti confiança crescente e satisfação, porque podia experimentar sem risco financeiro.
+Ao abrir a plataforma, Camila sente uma mistura de expectativa e leve ansiedade, pois deseja que o sistema seja intuitivo e que apresente as análises de forma visual e didática. Ela começa carregando os dados do mercado, confiando que a ferramenta vai organizar tudo automaticamente. Enquanto seleciona os métodos para comparação — correlação de Pearson de um lado e uma análise baseada em LLM do outro — pensa em como essa combinação poderá ajudar a unir teoria e prática em seu trabalho acadêmico.
 
-Ao analisar os resultados, meu objetivo era interpretar as informações de maneira a tomar decisões mais fundamentadas. Utilizei heatmaps e gráficos comparativos para entender a correlação entre os ativos e o comportamento das estratégias. Pensei: “Agora consigo ver claramente os riscos e oportunidades de cada cenário.” Senti clareza mental e motivação, percebendo que conseguia conectar a prática das simulações com meu conhecimento teórico.
+Durante a execução da análise, Camila acompanha atentamente os gráficos e métricas gerados. Ela se sente empoderada ao ver os resultados lado a lado, mas também fica um pouco desconfiada em relação às recomendações da IA, porque sabe que precisa justificar cada escolha para seus orientadores. Por isso, valoriza muito quando o sistema oferece explicações claras, que a ajudam a entender o “porquê” de cada sugestão.
 
-Depois, ajustei os cenários e testei novas hipóteses com o objetivo de refinar minhas estratégias. Alterei parâmetros, explorei pares diferentes de ações e comparei os resultados atualizados. Pensei: “Cada simulação me dá mais aprendizado e me ajuda a tomar decisões melhores.” Senti engajamento e entusiasmo, com a sensação de estar no controle e progredindo continuamente.
+Ao final, ela gera relatórios automatizados, que simplificam o compartilhamento e a apresentação dos resultados. Camila sente satisfação e confiança, pois a ferramenta facilitou o que antes demandava muito tempo e esforço. Mesmo assim, ela pensa em como ainda pode explorar melhor esses recursos para tornar suas análises mais robustas. Quando encerra a sessão, está motivada para continuar sua pesquisa, certa de que tem um aliado tecnológico que ajuda a transformar seu conhecimento em resultados concretos.
 
-Por fim, meu objetivo era consolidar meus aprendizados para aplicar estratégias mais fundamentadas no futuro. Revisei os resultados das simulações e observei padrões consistentes entre pares de ações e correlações. Pensei: “Agora posso tomar decisões mais conscientes, entendendo melhor os riscos e oportunidades do mercado.” Senti segurança, confiança e satisfação, com a certeza de que estava aprimorando minha capacidade de analisar investimentos de forma prática e eficiente.
+Miguel Silva – “O investidor que almeja independência”
+
+Depois de um longo dia de trabalho, Miguel chega em casa cansado, mas com o foco em sua rotina noturna de investimentos. Seu objetivo é claro: encontrar oportunidades reais no mercado que possam aumentar sua autonomia financeira. Ele quer usar tecnologia para tomar decisões mais embasadas, mas sem complicações técnicas que demandem horas estudando programação ou estatística avançada.
+
+Ao ligar o computador e abrir a plataforma de investimentos, Miguel sente uma pontada de frustração habitual — já perdeu muito tempo em outras ferramentas que eram complexas ou pouco claras. Por isso, espera que a interface seja simples e que as recomendações oferecidas pela inteligência artificial sejam objetivas e justificadas. Ele começa navegando pelas sugestões de pares de ações para operações long-short, buscando identificar aquelas que realmente tenham potencial.
+
+Enquanto analisa os dados históricos e métricas de risco apresentados, Miguel sente mais segurança, mas ainda mantém um olhar crítico. Ele precisa entender exatamente por que aquela dupla de ações foi indicada, para não agir baseado apenas em “caixa-preta”. A possibilidade de ajustar filtros e simular diferentes cenários de forma visual o deixa animado, pois isso se encaixa em seu desejo de ter controle sem precisar dominar linguagens técnicas.
+
+Após tomar sua decisão, ele executa ou simula a operação e, nos dias seguintes, volta para revisar os resultados. Se a análise foi clara e o desempenho positivo, Miguel se sente confiante e motivado a continuar usando a plataforma. Caso contrário, a frustração volta, e ele pensa em abandonar a ferramenta. Ao terminar a jornada, fecha o computador com a sensação de que, mesmo autodidata, ainda depende de soluções que traduzam dados complexos em insights simples — e é exatamente isso que ele busca: mais independência para investir com segurança e agilidade.
 
 # **Entrega 4  (data) \[em andamento/concluído\]**
 
@@ -565,8 +573,62 @@ Por fim, meu objetivo era consolidar meus aprendizados para aplicar estratégias
 	Por fim, ele fecha o notebook com a sensação de que, apesar de todo o esforço e conhecimento autodidata, continua vulnerável às limitações das ferramentas disponíveis e ao ruído do mercado. A frustração aumenta ao perceber que, por falta de uma análise clara e objetiva, oportunidades que poderiam ser rentáveis acabaram passando despercebidas.
 
 2) ## **Questões de Refinamento**
+   
+	1. Onde você costuma realizar suas análises de investimento? (ex: casa, trabalho, coworking) 
+	
+	2. Você participa de comunidades, fóruns ou grupos de investidores? 
+	
+	3. Quais são seus principais objetivos ao buscar ferramentas de análise? 
+	
+	4. Você costuma montar um plano antes de realizar uma operação? 
+	
+	5. Você executa análises estatísticas por conta própria? 
+	
+	6. Já aconteceu de você desistir de uma análise por falta de tempo ou ferramenta adequada? 
+	
+	7. Se uma ferramenta não entrega resultados claros, você para de usá-la? 
+   
+4) **Refinamento do Cenário Análise/Problema**
 
-3) **Refinamento do Cenário Análise/Problema**
+	Miguel chega em casa após um longo dia como analista de tecnologia. Já são quase 21h quando se senta em seu escritório doméstico[1], onde costuma realizar suas análises de investimento. À noite é seu único momento disponível para isso, e ele aproveita o silêncio para focar.
+	
+	Diante do computador, abre várias abas: um painel de cotações, gráficos técnicos, um fórum de traders e sua planilha no Excel com estratégias de long-short. Ele acompanha fóruns regularmente[2], mas raramente interage. Apesar disso, considera essas comunidades uma fonte útil de ideias e comparações.
+	
+	Seu objetivo naquela noite é identificar pares de ações para uma operação long-short[3]. Mais do que acertar uma operação, Miguel busca ganhar autonomia nas decisões, evitando depender de recomendações genéricas. Ele já tem o planejamento definido: usar dados históricos e scripts simples para filtrar pares com potencial de reversão de correlação[4].
+	
+	Ele coleta os dados por meio de uma API gratuita, mas perde tempo ajustando erros e padronizando colunas. Mesmo com esforço, a análise final ainda o deixa inseguro. Ele executa o que pode com os conhecimentos que tem em estatística, mas sabe que faltam validações mais robustas[5] — o que o leva a duvidar se o par encontrado representa uma boa oportunidade ou apenas uma coincidência visual.
+	
+	Situações assim não são novas. Em outros momentos, já desistiu de seguir com uma análise pela dificuldade em lidar com dados ou por falta de ferramentas acessíveis[6]. O tempo investido nem sempre compensa, e isso o frustra.
+	
+	Miguel gosta de tecnologia e se esforça para aplicar o que aprende, mas não quer depender de linguagens complexas ou de ajustes técnicos em toda operação. Quer algo que torne o processo mais prático, confiável e explicável. Se uma ferramenta não entrega resultados claros, ele tende a abandoná-la[7] — não por falta de interesse, mas por falta de confiança.
+	
+	Ao encerrar a noite, fecha o notebook com a sensação de ter desperdiçado uma possível oportunidade por falta de clareza na análise. E mais uma vez, sente que, apesar de todo o esforço, ainda está limitado pelas ferramentas disponíveis.
+
+	**Cenário de Análise/Problema**
+	
+	Camila Machado, de 27 anos, estudante de mestrado em Finanças, precisa comparar resultados de métodos clássicos de investimento, como a correlação de Pearson, com os de modelos de inteligência artificial.
+	Ela coleta dados de diferentes fontes e organiza manualmente planilhas, o que já consome bastante tempo. Quando tenta confrontar os resultados estatísticos com os de IA, encontra dificuldades, pois os formatos não são padronizados e os relatórios exigem adaptações manuais.
+	Para compartilhar os resultados com os orientadores, Camila ainda precisa preparar representações visuais, já que os relatórios brutos não são de fácil compreensão. Isso gera retrabalho e reduz o tempo disponível para a análise crítica dos dados.
+	No final, Camila sente frustração porque sua rotina semanal é repetitiva e atrasa a produção de resultados confiáveis para sua pesquisa.
+
+	## **Questões de Refinamento**
+	
+	1.	Os dados coletados por Camila estão organizados de forma que facilitem a comparação entre os métodos?
+	2.	Como o conhecimento técnico de Camila e de seus orientadores influencia a forma como os resultados precisam ser apresentados?
+	3.	O que Camila realmente busca ao comparar métodos clássicos com modelos de IA?
+	4.	Quais etapas Camila precisa seguir atualmente para transformar os dados brutos em resultados utilizáveis?
+	5.	Quais atividades manuais e repetitivas mais consomem o tempo de Camila?
+	6.	O que acontece quando Camila precisa compartilhar seus resultados com orientadores que não têm familiaridade com estatística ou programação?
+	7.	Como Camila percebe a confiabilidade e clareza dos relatórios que ela mesma prepara?
+
+	**Refinamento do Cenário Análise/Problema**
+	
+	Camila Machado, de 27 anos, estudante de mestrado em Finanças, precisa comparar resultados de métodos clássicos de investimento, como a correlação de Pearson, com os de modelos de inteligência artificial. Seu objetivo é avaliar qual das abordagens pode trazer maior eficiência em operações long-short [3].
+	Ela coleta dados de diferentes fontes do mercado financeiro e organiza manualmente planilhas, o que consome bastante tempo e exige que ela adapte informações que nem sempre estão em um formato padronizado [1]. Embora saiba programar em Python, Camila não domina ferramentas avançadas de visualização, e seus orientadores têm pouca familiaridade com programação, o que torna necessário apresentar relatórios claros e simplificados [2].
+	O processo atual exige que Camila siga diversas etapas: baixar os dados, limpá-los, rodar scripts em Python e depois preparar os resultados para que possam ser comparados [4]. Entre essas tarefas, as atividades manuais de padronização de planilhas e ajustes de relatórios acabam consumindo a maior parte do tempo disponível [5].
+	Quando precisa compartilhar suas análises, Camila enfrenta outras dificuldades, os relatórios gerados não são facilmente compreendidos por seus orientadores, então ela precisa investir horas extras criando representações visuais e explicações adicionais [6].
+	No final, Camila sente que, apesar de todo o esforço, os relatórios que prepara nem sempre são claros ou transmitem confiança, já que parte do processo depende de adaptações manuais, o que pode gerar alguns erros [7]. Essa situação gera frustração, pois sua rotina semanal se torna repetitiva, desgastante e atrasa a entrega de resultados relevantes para sua pesquisa.
+
 
 # 
 
