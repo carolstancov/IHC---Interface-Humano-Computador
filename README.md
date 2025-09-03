@@ -554,7 +554,7 @@ Enquanto analisa os dados históricos e métricas de risco apresentados, Miguel 
 
 Após tomar sua decisão, ele executa ou simula a operação e, nos dias seguintes, volta para revisar os resultados. Se a análise foi clara e o desempenho positivo, Miguel se sente confiante e motivado a continuar usando a plataforma. Caso contrário, a frustração volta, e ele pensa em abandonar a ferramenta. Ao terminar a jornada, fecha o computador com a sensação de que, mesmo autodidata, ainda depende de soluções que traduzam dados complexos em insights simples — e é exatamente isso que ele busca: mais independência para investir com segurança e agilidade.
 
-# **Entrega 4  (data) \[em andamento/concluído\]**
+# **Entrega 4  (02/09/2025) Concluído**
 
 **\[1 solução completa por pessoa da equipe\]**
 
